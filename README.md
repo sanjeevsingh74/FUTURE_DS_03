@@ -4,7 +4,12 @@ Project Overview
 
 This project is aimed at analyzing road accident data and identifying trends and insights related to casualties. The project will leverage several key performance indicators (KPIs) to measure the severity and the total number of casualties by accident severity, vehicle type, road type, and other factors.
 
-Business Case:
+# 🧩 Project Objective
+
+As a government department focused on road safety and accident reduction, we’re overwhelmed by growing accidents. We lack real-time insights to act on risky locations, accident types, times, and weather conditions. We want a smart accident analytics dashboard to improve public safety, infrastructure planning, and emergency response.
+
+
+**Business Case:**
 The business case for this project is to help transportation authorities, law enforcement agencies, and other stakeholders improve traffic safety and reduce the number of casualties caused by road accidents. By analyzing accident data and identifying trends and patterns, these stakeholders can implement targeted interventions to improve road safety and reduce the risk of accidents.
 
 Goal:
