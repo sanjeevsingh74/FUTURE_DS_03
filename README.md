@@ -2,6 +2,9 @@
 
 Project Overview
 
+Despite implementing traffic regulations and road safety campaigns, the borough of Kensington and Chelsea continues to report a significant number of road accidents. The Transport Safety Authority needs to understand:
+What factors contribute most to road accidents? Where and when do these occur the most? And how can we reduce them effectively?
+
 This project is aimed at analyzing road accident data and identifying trends and insights related to casualties. The project will leverage several key performance indicators (KPIs) to measure the severity and the total number of casualties by accident severity, vehicle type, road type, and other factors.
 
 # 🧩 Project Objective
