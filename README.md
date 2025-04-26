@@ -46,4 +46,5 @@ Total Causalities and Total Accident by Location
 I have executed this project using Power BI
 
 Activities Carried Out
-![TIV](https://github.com/user-attachments/assets/e6daecff-7256-460c-80f4-23398b61e0d5)
+
+![Envirm](https://github.com/user-attachments/assets/876996c3-c507-429e-af18-6e32b478bf5e)
