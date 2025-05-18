@@ -42,8 +42,8 @@ Causalities by Road Type for CY
 CY Causalities by Area/Location & by Day/Night
 
 Total Causalities and Total Accident by Location
-
-🚧#Recommendation and Action Plan Summary
+![Envirm](https://github.com/user-attachments/assets/876996c3-c507-429e-af18-6e32b478bf5e)
+## Recommendation and Action Plan Summary
 Objective:
 To improve road safety, reduce accident rates, and minimize fatalities by implementing data-driven strategies based on detailed analysis of road accident trends.
 
@@ -100,4 +100,4 @@ I have executed this project using Power BI
 
 Activities Carried Out
 
-![Envirm](https://github.com/user-attachments/assets/876996c3-c507-429e-af18-6e32b478bf5e)
+
